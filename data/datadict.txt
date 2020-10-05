@@ -1,0 +1,38 @@
+Column	Data
+timestamp	Unix Timestamp of the Kick Off Time
+date_GMT	Kick Off Time in GMT (ie. Feb 18 2017 - 9:30am)
+status	incomplete/complete/postponed/canceled
+attendance	Number of attendance at the stadium - if available.
+team_a_name	Home Team Name.
+team_b_name	Away Team Name.
+refree	Full name of the Referee. If available.
+Pre-Match PPG (Home)	Points Per Game for Home Team - Pre Match.
+Pre-Match PPG (Away)	Points Per Game for Away Team - Pre Match.
+home_ppg	Points Per Game for Home Team - Current.
+away_ppg	Points Per Game for Away Team - Current.
+home_team_goal_count	Number of goals scored by the home team.
+away_team_goal_count	Number of goals scored by the away team.
+total_goal_count	Total Number of Goals
+total_goals_at_half_time	Total Number of Goals at Half-Time
+home_team_goal_count_half_time	Number of goals scored by the home team by half-time.
+away_team_goal_count_half_time	Number of goals scored by the away team by half-time.
+home_team_goal_timings	Minutes at which the goals were scored - Home Team. If available.
+away_team_goal_timings	Minutes at which the goals were scored - Away Team. If available.
+home_team_corner_count	Home Team corner count.
+away_team_corner_count	Away Team corner count.
+home_team_yellow_cards	Number of yellow cards for home team.
+home_team_red_cards	Number of red cards for home team.
+away_team_yellow_cards	Number of yellow cards for away team.
+away_team_red_cards	Number of red cards for away team.
+home_team_first_half_cards / away_team_first_half_cards	Number of First Half cards for Home Team / Away Team
+home_team_second_half_cards / away_team_second_half_cards	Number of Second Half cards for Home Team / Away Team
+average_goals_per_match_pre_match	Average total goals per match. Average by the 2 teams involved. Calculated Pre-Match.
+btts_percentage_pre_match	Average BTTS % between both teams. Calculated Pre-Match.
+over_15_percentage_pre_match ~ over_45_percentage_pre_match	Average Over 1.5 % ~ 4.5 % between both teams. Calculated Pre-Match.
+odds_ft_home_team_win	Odds - Home Team Win at Full Time
+odds_ft_draw	Odds - Draw at Full Time
+odds_ft_away_team_win	Odds - Away Team Win at Full Time
+odds_ft_over15 ~ odds_ft_over45	Odds - Over 1.5 at Full Time
+odds_btts_yes	Odds - BTTS Yes at Full Time
+odds_btts_no	Odds - BTTS No at Full Time
+stadium_name	Stadium Name
